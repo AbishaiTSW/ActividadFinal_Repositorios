@@ -164,7 +164,7 @@ Los condicionales son estructuras de control que permiten al programa tomar deci
 
 *Ejemplo:* En algoritmo natural sería algo como escribir:
 
-> Inicio, leer $a$, leer $b$, $p - a + b$, ¿$p = 10$?, Si sí igual, Si no Diferente.
+> Inicio, leer $a$, leer $b$, $p - a + b$, $¿p = 10?$, Si sí igual, Si no Diferente.
 
 #### Bucle
 
